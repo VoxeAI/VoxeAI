@@ -1,0 +1,1 @@
+tire a parte os.environ.get from the key 
